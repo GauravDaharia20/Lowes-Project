@@ -1,2 +1,2 @@
-# Lowes-Project
-Lowes Hackathon
+# Lowe's-Project
+Lowe's Hackathon
